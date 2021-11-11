@@ -46,6 +46,5 @@ Answer: Ivan Petrenko, Petro Ivanov
 - Lombok
 
 ## How to run locally
-1. For the correct work of the program you need to have MySQL and <a href="https://tomcat.apache.org/download-90.cgi">Apache Tomcat 9</a> installed
-2. Fork and clone this project.
-3. Run project in your IDE or go to the project root directory and run command `mvn -q spring-boot:run -Dspring-boot.run.jvmArguments="-Dspring.profiles.active=import"` in your terminal.
+1. Fork and clone this project.
+2. Run project in your IDE or go to the project root directory and run command `mvn -q spring-boot:run -Dspring-boot.run.jvmArguments="-Dspring.profiles.active=import"` in your terminal.
